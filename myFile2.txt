@@ -1,3 +1,5 @@
 text message for my file 2
 
 some text adding locally to file 2
+
+teddy bear
